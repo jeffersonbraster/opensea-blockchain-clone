@@ -1,7 +1,5 @@
+import Header from '../components/Header'
+
 export default function Home() {
-  return (
-    <div>
-      <h2>oi</h2>
-    </div>
-  )
+  return <Header />
 }
